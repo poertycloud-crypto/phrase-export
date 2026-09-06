@@ -1,0 +1,8 @@
+credentials.json
+*.local.json
+.env
+__pycache__/
+*.pyc
+outputs/
+previews/
+*.used

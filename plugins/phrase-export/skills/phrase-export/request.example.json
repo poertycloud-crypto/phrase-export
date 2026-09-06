@@ -1,0 +1,11 @@
+{
+  "project": "Aniimo_TEP_CN_Multi_游戏内_Final",
+  "language": "en",
+  "date_field": "dateCreated",
+  "start": "2026-08-01T00:00:00+08:00",
+  "end": null,
+  "workflow": "QC",
+  "include_cancelled": true,
+  "output": "segments",
+  "completion": "segment"
+}
